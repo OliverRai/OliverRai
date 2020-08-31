@@ -4,7 +4,7 @@
 ## Olá pessoal 👋
 Sou uma jovem recém formada em Análise e Desenvolvimento de Sistemas 💻
 
-  Atualmente estou estudando novas técnologias como Angular.js. 
+  Atualmente estou estudando novas técnologias como AngularJS e ReactJS. 
  <br/> Busco conhecer sempre um pouquinho de cada coisa, mas sem deixar de lado meu xodó: Java :purple_heart: &nbsp;
  <br/> Se você precisar de ajuda com alguma coisa, e acredita que posso te ajudar, por favor fale comigo! :blush: &nbsp;
  <br/> Gosto muito de usar: Hibernate, JPA, Spring boot, angular, bootstrap. 💞
